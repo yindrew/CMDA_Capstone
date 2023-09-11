@@ -1,3 +1,3 @@
 # CMDA_Capstone
 
-Our poject for Spring 2023 Capstone
+Our project for Spring 2023 Capstone
